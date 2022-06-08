@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "W83/mvVMGKdwfmZ9HUTv7vE4ZXDb/wUhgKBH4WbYlBGpT4VC1BoeXajaxlIfJ4tKeAef6Np5QazR0ij42TLqwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sandiswa\\source\\repos\\Sandisw\\Sweat-Coins\\Sweat Coins\\Sweat Coins\\Sweat Coins\\Sweat Coins.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

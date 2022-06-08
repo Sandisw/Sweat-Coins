@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEFKTAxA8ncvDsOCBRihs/yYvkeHfMZxO26+1nzu2Trf1dZuRuQ4D450E5LGn2lPMIhQi7fCMs4oHM05twfYTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sandiswa\\source\\repos\\Sandisw\\Sweat-Coins\\Sweat Coins\\Sweat Coins\\Sweat Coins.iOS\\Sweat Coins.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Sandiswa\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
